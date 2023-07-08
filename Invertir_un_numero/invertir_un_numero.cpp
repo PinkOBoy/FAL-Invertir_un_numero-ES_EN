@@ -2,9 +2,6 @@
 * Solucion aportada por el profesor de la FdI (UCM):
 * Solution given by FdI's (UCM) professor:
 *   ANTONIO ALEJANDRO SANCHEZ RUIZ-GRANADOS
-* Editada y completada por:
-* Edited and completed by:
-*   JAIME B.
 */
 #include <iostream>
 #include <vector>
